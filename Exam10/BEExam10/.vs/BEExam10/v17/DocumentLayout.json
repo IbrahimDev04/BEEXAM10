@@ -1,0 +1,732 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\viewmodels\\job\\createjobvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\viewmodels\\job\\createjobvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\areas\\admin\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\areas\\admin\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\viewmodels\\employee\\getemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\viewmodels\\employee\\getemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\viewmodels\\employee\\updateemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\viewmodels\\employee\\updateemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\viewmodels\\employee\\getemployeeadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\viewmodels\\employee\\getemployeeadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\viewmodels\\job\\getjobvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\viewmodels\\job\\getjobvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\enums\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\enums\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\viewmodels\\employee\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\viewmodels\\employee\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\extensions\\managefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\extensions\\managefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\dataaccesslayer\\lumiacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\dataaccesslayer\\lumiacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\areas\\admin\\views\\job\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\areas\\admin\\views\\job\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\areas\\admin\\views\\job\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\areas\\admin\\views\\job\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\areas\\admin\\views\\job\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\areas\\admin\\views\\job\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\areas\\admin\\views\\shared\\components\\navadmin\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\areas\\admin\\views\\shared\\components\\navadmin\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\viewmodels\\job\\updatejobvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\viewmodels\\job\\updatejobvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\viewmodels\\job\\getjobadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\viewmodels\\job\\getjobadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\areas\\admin\\viewcomponents\\navadminviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\areas\\admin\\viewcomponents\\navadminviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\viewcomponents\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\viewcomponents\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\views\\shared\\components\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\views\\shared\\components\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|c:\\users\\ca.r215.11\\desktop\\exam10\\beexam10\\beexam10\\viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E8D17D-6C2A-4021-9329-8F9DB8FD4E69}|BEExam10\\BEExam10.csproj|solutionrelative:beexam10\\viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BEExam10\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BEExam10\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAACcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:28:32.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "BEExam10\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "BEExam10\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:50:32.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Areas\\Admin\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "BEExam10\\Areas\\Admin\\Controllers\\JobController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Areas\\Admin\\Controllers\\JobController.cs",
+              "RelativeToolTip": "BEExam10\\Areas\\Admin\\Controllers\\JobController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:39:25.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BEExam10\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BEExam10\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:31:18.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetEmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\ViewModels\\Employee\\GetEmployeeVM.cs",
+              "RelativeDocumentMoniker": "BEExam10\\ViewModels\\Employee\\GetEmployeeVM.cs",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\ViewModels\\Employee\\GetEmployeeVM.cs",
+              "RelativeToolTip": "BEExam10\\ViewModels\\Employee\\GetEmployeeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:32:13.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BEExam10\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BEExam10\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAB0CAAAAAAAAAAAjwCwCAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:31:24.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BEExam10\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BEExam10\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:30:13.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeDocumentMoniker": "BEExam10\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeToolTip": "BEExam10\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:31:02.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateJobVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\ViewModels\\Job\\CreateJobVM.cs",
+              "RelativeDocumentMoniker": "BEExam10\\ViewModels\\Job\\CreateJobVM.cs",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\ViewModels\\Job\\CreateJobVM.cs",
+              "RelativeToolTip": "BEExam10\\ViewModels\\Job\\CreateJobVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:37:04.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateEmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "RelativeDocumentMoniker": "BEExam10\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "RelativeToolTip": "BEExam10\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:32:45.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetEmployeeAdminVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\ViewModels\\Employee\\GetEmployeeAdminVM.cs",
+              "RelativeDocumentMoniker": "BEExam10\\ViewModels\\Employee\\GetEmployeeAdminVM.cs",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\ViewModels\\Employee\\GetEmployeeAdminVM.cs",
+              "RelativeToolTip": "BEExam10\\ViewModels\\Employee\\GetEmployeeAdminVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:31:54.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetJobVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\ViewModels\\Job\\GetJobVM.cs",
+              "RelativeDocumentMoniker": "BEExam10\\ViewModels\\Job\\GetJobVM.cs",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\ViewModels\\Job\\GetJobVM.cs",
+              "RelativeToolTip": "BEExam10\\ViewModels\\Job\\GetJobVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:36:37.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Enums\\UserRoles.cs",
+              "RelativeDocumentMoniker": "BEExam10\\Enums\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Enums\\UserRoles.cs",
+              "RelativeToolTip": "BEExam10\\Enums\\UserRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:18:51.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BEExam10\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "BEExam10\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T07:50:10.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BEExam10\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BEExam10\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:30:31.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "BEExam10\\ViewModels\\Account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeToolTip": "BEExam10\\ViewModels\\Account\\RegisterVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:29:27.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BEExam10\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "BEExam10\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T07:50:23.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "BEExam10\\ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "BEExam10\\ViewModels\\Account\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:40:45.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "BEExam10\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "BEExam10\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAwFcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:50:40.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "BEExam10\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "BEExam10\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwEIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T06:49:02.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Areas\\Admin\\Views\\Job\\Create.cshtml",
+              "RelativeDocumentMoniker": "BEExam10\\Areas\\Admin\\Views\\Job\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Areas\\Admin\\Views\\Job\\Create.cshtml",
+              "RelativeToolTip": "BEExam10\\Areas\\Admin\\Views\\Job\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:57:43.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BEExam10\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BEExam10\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:49:52.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateEmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "RelativeDocumentMoniker": "BEExam10\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "RelativeToolTip": "BEExam10\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:32:30.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeDocumentMoniker": "BEExam10\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeToolTip": "BEExam10\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T06:49:14.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ManageFile.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Extensions\\ManageFile.cs",
+              "RelativeDocumentMoniker": "BEExam10\\Extensions\\ManageFile.cs",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Extensions\\ManageFile.cs",
+              "RelativeToolTip": "BEExam10\\Extensions\\ManageFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:10:23.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Models\\Employees.cs",
+              "RelativeDocumentMoniker": "BEExam10\\Models\\Employees.cs",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Models\\Employees.cs",
+              "RelativeToolTip": "BEExam10\\Models\\Employees.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:09:09.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Program.cs",
+              "RelativeDocumentMoniker": "BEExam10\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Program.cs",
+              "RelativeToolTip": "BEExam10\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:36:51.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LumiaContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\DataAccessLayer\\LumiaContext.cs",
+              "RelativeDocumentMoniker": "BEExam10\\DataAccessLayer\\LumiaContext.cs",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\DataAccessLayer\\LumiaContext.cs",
+              "RelativeToolTip": "BEExam10\\DataAccessLayer\\LumiaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:03:46.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Areas\\Admin\\Views\\Job\\Index.cshtml",
+              "RelativeDocumentMoniker": "BEExam10\\Areas\\Admin\\Views\\Job\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Areas\\Admin\\Views\\Job\\Index.cshtml",
+              "RelativeToolTip": "BEExam10\\Areas\\Admin\\Views\\Job\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:40:07.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Areas\\Admin\\Views\\Job\\Update.cshtml",
+              "RelativeDocumentMoniker": "BEExam10\\Areas\\Admin\\Views\\Job\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Areas\\Admin\\Views\\Job\\Update.cshtml",
+              "RelativeToolTip": "BEExam10\\Areas\\Admin\\Views\\Job\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:57:59.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Areas\\Admin\\Views\\Shared\\Components\\NavAdmin\\Default.cshtml",
+              "RelativeDocumentMoniker": "BEExam10\\Areas\\Admin\\Views\\Shared\\Components\\NavAdmin\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Areas\\Admin\\Views\\Shared\\Components\\NavAdmin\\Default.cshtml",
+              "RelativeToolTip": "BEExam10\\Areas\\Admin\\Views\\Shared\\Components\\NavAdmin\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:49:26.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BEExam10\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BEExam10\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:50:03.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BEExam10\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BEExam10\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:49:40.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UpdateJobVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\ViewModels\\Job\\UpdateJobVM.cs",
+              "RelativeDocumentMoniker": "BEExam10\\ViewModels\\Job\\UpdateJobVM.cs",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\ViewModels\\Job\\UpdateJobVM.cs",
+              "RelativeToolTip": "BEExam10\\ViewModels\\Job\\UpdateJobVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:37:17.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetJobAdminVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\ViewModels\\Job\\GetJobAdminVM.cs",
+              "RelativeDocumentMoniker": "BEExam10\\ViewModels\\Job\\GetJobAdminVM.cs",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\ViewModels\\Job\\GetJobAdminVM.cs",
+              "RelativeToolTip": "BEExam10\\ViewModels\\Job\\GetJobAdminVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:36:52.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BEExam10\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "BEExam10\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:07:33.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "BEExam10\\Models\\Job.cs",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Models\\Job.cs",
+              "RelativeToolTip": "BEExam10\\Models\\Job.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:11:56.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "BEExam10\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Models\\AppUser.cs",
+              "RelativeToolTip": "BEExam10\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:06:20.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "NavAdminViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Areas\\Admin\\ViewComponents\\NavAdminViewComponent.cs",
+              "RelativeDocumentMoniker": "BEExam10\\Areas\\Admin\\ViewComponents\\NavAdminViewComponent.cs",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Areas\\Admin\\ViewComponents\\NavAdminViewComponent.cs",
+              "RelativeToolTip": "BEExam10\\Areas\\Admin\\ViewComponents\\NavAdminViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:48:38.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "RelativeDocumentMoniker": "BEExam10\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "RelativeToolTip": "BEExam10\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwDIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:31:10.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BEExam10\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BEExam10\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:29:59.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FooterViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\ViewComponents\\FooterViewComponent.cs",
+              "RelativeDocumentMoniker": "BEExam10\\ViewComponents\\FooterViewComponent.cs",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\ViewComponents\\FooterViewComponent.cs",
+              "RelativeToolTip": "BEExam10\\ViewComponents\\FooterViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:29:25.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "HeaderViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeDocumentMoniker": "BEExam10\\ViewComponents\\HeaderViewComponent.cs",
+              "ToolTip": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeToolTip": "BEExam10\\ViewComponents\\HeaderViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:28:09.424Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

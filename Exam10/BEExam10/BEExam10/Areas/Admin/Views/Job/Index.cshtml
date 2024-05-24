@@ -1,0 +1,58 @@
+﻿@model List<GetJobAdminVM>
+
+<div class="col-lg-8 d-flex align-items-stretch">
+    <div class="card w-100">
+        <div class="card-body p-4">
+            <h5 class="card-title fw-semibold mb-4">Job</h5>
+            <div class="table-responsive">
+                <a type="button" asp-action="Create" class="btn float-end btn-outline-success m-1">Create</a>
+                <table class="table table-bordered text-nowrap mb-0 align-middle">
+                    <thead class="text-dark fs-4">
+                        <tr>
+                            <th class="border-bottom-0">
+                                <h6 class="fw-semibold mb-0">Id</h6>
+                            </th>
+                            <th class="border-bottom-0">
+                                <h6 class="fw-semibold mb-0">Name</h6>
+                            </th>
+                            <th class="border-bottom-0">
+                                <h6 class="fw-semibold mb-0">Creat Time</h6>
+                            </th>
+                            <th class="border-bottom-0">
+                                <h6 class="fw-semibold mb-0">Update Time</h6>
+                            </th>
+                            <th class="border-bottom-0">
+                                <h6 class="fw-semibold mb-0">Action</h6>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td class="border-bottom-0">
+                                    <h6 class="fw-semibold mb-0">@item.Id</h6>
+                                </td>
+                                <td class="border-bottom-0">
+                                    <h6 class="fw-semibold mb-0">@item.Name</h6>
+                                </td>
+                                <td class="border-bottom-0">
+                                    <h6 class="fw-semibold mb-0">@item.CreatedTime</h6>
+                                </td>
+                                <td class="border-bottom-0">
+                                    <h6 class="fw-semibold mb-0">@item.UpdatedTime</h6>
+                                </td>
+
+                                <td class="border-bottom-0">
+                                    <a type="button" asp-action="Update" asp-route-id="@item.Id" class="btn btn-outline-primary m-1">Update</a>
+                                    <a type="button" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-outline-danger m-1">Delete</a>
+                                </td>
+                            </tr>
+                        }
+                        
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
