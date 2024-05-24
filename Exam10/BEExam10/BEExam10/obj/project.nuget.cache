@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gzc6BCRLDeA=",
+  "dgSpecHash": "0mxvUVoyZbs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\BEExam10.csproj",
+  "projectFilePath": "C:\\Users\\ca.r215.11\\Desktop\\Exam\\Exam10\\BEExam10\\BEExam10\\BEExam10.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ca.r215.11\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ca.r215.11\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

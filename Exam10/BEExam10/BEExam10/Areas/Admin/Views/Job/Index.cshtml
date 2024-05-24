@@ -52,7 +52,16 @@
                         
                     </tbody>
                 </table>
+                
             </div>
+            <ul class="pagination" style="margin-left:40%; margin-top:5%">
+                
+                @for (int i = 1; i <= ViewBag.MaxPage; i++)
+                {
+                    <li class="page-item"><a class="page-link" asp-route-page ="@(i-1)">@i</a></li>
+                }
+                
+            </ul>
         </div>
     </div>
 </div>

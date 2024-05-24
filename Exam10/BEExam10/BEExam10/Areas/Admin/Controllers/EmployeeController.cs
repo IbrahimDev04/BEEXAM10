@@ -16,10 +16,15 @@ namespace BEExam10.Areas.Admin.Controllers
     [Authorize(Roles = "Admin, Member")]
     public class EmployeeController(LumiaContext _context, IWebHostEnvironment _env) : Controller
     {
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(int page = 0)
         {
+            var PageCount = 2;
+            double n = await _context.Jobs.CountAsync();
+            ViewBag.MaxPage = Math.Ceiling((double)n / PageCount);
 
             var data = await _context.Employees
+                .Skip(page * PageCount)
+                .Take(PageCount)
                 .Include(j => j.Job)
                 .Select(s => new GetEmployeeAdminVM
                 {

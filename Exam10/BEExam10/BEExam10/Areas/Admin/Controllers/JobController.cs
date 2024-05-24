@@ -10,10 +10,17 @@ namespace BEExam10.Areas.Admin.Controllers
     [Authorize(Roles = "Admin, Member")]
     public class JobController(LumiaContext _context) : Controller
     {
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(int page = 0)
         {
+            var PageCount = 2;
+            double n = await _context.Jobs.CountAsync();
+            ViewBag.MaxPage = Math.Ceiling((double)n/PageCount); 
+
+
 
             var data = await _context.Jobs
+                .Skip(page*PageCount)
+                .Take(PageCount)
                 .Select(s => new GetJobAdminVM
                 {
                     Name = s.Name,

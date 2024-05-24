@@ -4285,11 +4285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\BEExam10.csproj",
+      "projectUniqueName": "C:\\Users\\ca.r215.11\\Desktop\\Exam\\Exam10\\BEExam10\\BEExam10\\BEExam10.csproj",
       "projectName": "BEExam10",
-      "projectPath": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\BEExam10.csproj",
+      "projectPath": "C:\\Users\\ca.r215.11\\Desktop\\Exam\\Exam10\\BEExam10\\BEExam10\\BEExam10.csproj",
       "packagesPath": "C:\\Users\\ca.r215.11\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ca.r215.11\\Desktop\\Exam10\\BEExam10\\BEExam10\\obj\\",
+      "outputPath": "C:\\Users\\ca.r215.11\\Desktop\\Exam\\Exam10\\BEExam10\\BEExam10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ca.r215.11\\AppData\\Roaming\\NuGet\\NuGet.Config",
