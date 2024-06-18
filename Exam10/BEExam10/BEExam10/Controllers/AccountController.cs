@@ -24,7 +24,7 @@ namespace BEExam10.Controllers
             {
                 Name = vm.Name,
                 Email = vm.Email,
-                UserName = vm.Name,
+                UserName = vm.Username,
                 Surname = vm.Surname,
             };
 

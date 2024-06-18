@@ -4,8 +4,6 @@ namespace BEExam10.ViewModels.Account
 {
     public class LoginVM
     {
-
-        [Required, MinLength(3, ErrorMessage = "Lenght Error"), MaxLength(12, ErrorMessage = "Lenght Error")]
         public string UsernameOrEmail { get; set; }
 
 
